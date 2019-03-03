@@ -46,11 +46,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="a4_sub_selection.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="a4_sub_selection.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/a4_sub_selection.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
               <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a5_function_chain.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/a5_function_chain.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a6_raw_selection.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/a6_raw_selection.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="47" column="55" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -71,6 +89,8 @@
         <option value="$PROJECT_DIR$/a2_multiple_selection.html" />
         <option value="$PROJECT_DIR$/a3_selection_iteration.html" />
         <option value="$PROJECT_DIR$/a4_sub_selection.html" />
+        <option value="$PROJECT_DIR$/a5_function_chain.html" />
+        <option value="$PROJECT_DIR$/a6_raw_selection.html" />
       </list>
     </option>
   </component>
@@ -142,12 +162,12 @@
       <option name="presentableId" value="Default" />
       <updated>1558249093280</updated>
       <workItem from="1558249094343" duration="2218000" />
-      <workItem from="1551513685285" duration="369000" />
+      <workItem from="1551513685285" duration="1113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2587000" />
+    <option name="totallyTimeSpent" value="3331000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="511" width="1857" height="1092" extended-state="6" />
@@ -238,6 +258,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a5_function_chain.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a6_raw_selection.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="47" column="55" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="55" />
         </state>
       </provider>
     </entry>
