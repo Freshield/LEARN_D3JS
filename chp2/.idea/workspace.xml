@@ -67,7 +67,7 @@
       <file leaf-file-name="a6_raw_selection.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/a6_raw_selection.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
+            <state relative-caret-position="390">
               <caret line="47" column="55" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="55" />
             </state>
           </provider>
@@ -162,16 +162,15 @@
       <option name="presentableId" value="Default" />
       <updated>1558249093280</updated>
       <workItem from="1558249094343" duration="2218000" />
-      <workItem from="1551513685285" duration="1113000" />
+      <workItem from="1551513685285" duration="1355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3331000" />
+    <option name="totallyTimeSpent" value="3573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="511" width="1857" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959569" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -270,7 +269,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/a6_raw_selection.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
+        <state relative-caret-position="390">
           <caret line="47" column="55" selection-start-line="47" selection-start-column="55" selection-end-line="47" selection-end-column="55" />
         </state>
       </provider>
