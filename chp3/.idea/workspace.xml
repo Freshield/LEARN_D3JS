@@ -52,11 +52,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="a4_working_with_array.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="a4_working_with_array.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/a4_working_with_array.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+            <state relative-caret-position="256">
+              <caret line="101" column="22" lean-forward="true" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a5_data_filter.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/a5_data_filter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="564">
+              <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -80,6 +89,7 @@
         <option value="$PROJECT_DIR$/a2_object_as_data.html" />
         <option value="$PROJECT_DIR$/a3_function_as_data.html" />
         <option value="$PROJECT_DIR$/a4_working_with_array.html" />
+        <option value="$PROJECT_DIR$/a5_data_filter.html" />
       </list>
     </option>
   </component>
@@ -157,12 +167,12 @@
       <workItem from="1558324517588" duration="2649000" />
       <workItem from="1551856168838" duration="23000" />
       <workItem from="1551856200146" duration="80000" />
-      <workItem from="1551856332695" duration="3321000" />
+      <workItem from="1551856332695" duration="3695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11599000" />
+    <option name="totallyTimeSpent" value="11973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="518" width="1855" height="1084" extended-state="6" />
@@ -252,8 +262,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/a4_working_with_array.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+        <state relative-caret-position="256">
+          <caret line="101" column="22" lean-forward="true" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a5_data_filter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
         </state>
       </provider>
     </entry>
