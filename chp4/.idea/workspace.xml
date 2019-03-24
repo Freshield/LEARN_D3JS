@@ -40,11 +40,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="a3_ordinal-scale.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="a3_ordinal-scale.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/a3_ordinal-scale.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="609">
-              <caret line="61" column="4" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a4_string_interpolation.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/a4_string_interpolation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -64,6 +73,7 @@
         <option value="$PROJECT_DIR$/a1_quantitative_scales.html" />
         <option value="$PROJECT_DIR$/a2_time_scale.html" />
         <option value="$PROJECT_DIR$/a3_ordinal-scale.html" />
+        <option value="$PROJECT_DIR$/a4_string_interpolation.html" />
       </list>
     </option>
   </component>
@@ -134,16 +144,15 @@
       <workItem from="1558358643010" duration="1702000" />
       <workItem from="1558943674291" duration="10000" />
       <workItem from="1559119572274" duration="2425000" />
-      <workItem from="1559182443038" duration="1287000" />
+      <workItem from="1559182443038" duration="3209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5686000" />
+    <option name="totallyTimeSpent" value="7608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="511" width="1857" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15849057" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -248,7 +257,14 @@
     <entry file="file://$PROJECT_DIR$/a3_ordinal-scale.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
-          <caret line="61" column="4" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a4_string_interpolation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
