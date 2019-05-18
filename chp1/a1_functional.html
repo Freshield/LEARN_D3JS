@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<!-- 此刻不显示图片：
+@Author: Freshield
+@License: (C) Copyright 2018, BEIJING LINKING MEDICAL TECHNOLOGY CO., LTD.
+@Contact: yangyufresh@163.com
+@File: a1_functional.py
+@Time: 2019-05-18 22:05
+@Last_update: 2019-05-18 22:05
+@Desc: None
+@==============================================@
+@      _____             _   _     _   _       @
+@     |   __|___ ___ ___| |_|_|___| |_| |      @
+@     |   __|  _| -_|_ -|   | | -_| | . |      @
+@     |__|  |_| |___|___|_|_|_|___|_|___|      @
+@                                    Freshield @
+@==============================================@
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Functional test</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script type="text/javascript" src="d3.js"></script>
+</head>
+<body>
+
+<script>
+    function SimpleWidget(spec) {
+        var instance = {}
+
+        var headline, description
+
+        instance.render = function () {
+            var div = d3.select('body').append('div')
+
+            div.append('h3').text(headline)
+
+            div.attr('class', 'box')
+                .attr('style', 'color:' + spec.color)
+                .append('p')
+                .text(description)
+
+            return instance
+        }
+
+        instance.headline = function (h) {
+            if (arguments.length == 0)
+                return headline
+            headline = h;
+            return instance;
+        }
+
+        instance.description = function (d) {
+            if (!arguments.length)
+                return description
+            description = d
+            return instance
+        }
+
+        return instance
+    }
+
+    var widget = SimpleWidget({color: '#6495ed'})
+        .headline('Simple Widget')
+        .description('This is a simple widget demonstrating functional javascript.')
+
+    console.log(widget.headline())
+    widget = widget.render()
+    console.log('here')
+
+
+</script>
+
+</body>
+</html>
