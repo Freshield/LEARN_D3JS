@@ -32,11 +32,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="a3_zoom.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="a3_zoom.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/a3_zoom.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="544">
               <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a4_drag.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/a4_drag.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -56,6 +65,7 @@
         <option value="$PROJECT_DIR$/a1_mouse.html" />
         <option value="$PROJECT_DIR$/a2_touch.html" />
         <option value="$PROJECT_DIR$/a3_zoom.html" />
+        <option value="$PROJECT_DIR$/a4_drag.html" />
       </list>
     </option>
   </component>
@@ -122,16 +132,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562897492886</updated>
-      <workItem from="1562897494437" duration="2678000" />
+      <workItem from="1562897494437" duration="3425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2678000" />
+    <option name="totallyTimeSpent" value="3425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="518" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959569" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -177,6 +186,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="54" column="5" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a4_drag.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
