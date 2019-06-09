@@ -14,10 +14,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="a1_quantitative_scales.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="a1_quantitative_scales.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/a1_quantitative_scales.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="814">
+            <state relative-caret-position="609">
               <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
               <folding>
                 <element signature="e#929#933#0" expanded="true" />
@@ -27,42 +27,6 @@
                 <element signature="e#1206#1210#0" expanded="true" />
                 <element signature="e#1225#1229#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a2_time_scale.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a2_time_scale.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="22" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a3_ordinal-scale.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a3_ordinal-scale.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a4_string_interpolation.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a4_string_interpolation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1078">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a5_color_interpolation.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/a5_color_interpolation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="67" selection-start-line="67" selection-end-line="67" />
             </state>
           </provider>
         </entry>
@@ -84,6 +48,8 @@
         <option value="$PROJECT_DIR$/a3_ordinal-scale.html" />
         <option value="$PROJECT_DIR$/a4_string_interpolation.html" />
         <option value="$PROJECT_DIR$/a5_color_interpolation.html" />
+        <option value="$PROJECT_DIR$/a6_compound_interpolation.html" />
+        <option value="$PROJECT_DIR$/a7_custom_interpolator.html" />
       </list>
     </option>
   </component>
@@ -124,7 +90,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chp5" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -156,15 +122,16 @@
       <workItem from="1559119572274" duration="2425000" />
       <workItem from="1559182443038" duration="3209000" />
       <workItem from="1553398149142" duration="578000" />
-      <workItem from="1559195605579" duration="599000" />
+      <workItem from="1559195605579" duration="2412000" />
+      <workItem from="1560078357838" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8785000" />
+    <option name="totallyTimeSpent" value="10608000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="511" width="1857" height="1092" extended-state="6" />
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15849057" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -192,6 +159,21 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/a1_quantitative_scales.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+          <folding>
+            <element signature="e#929#933#0" expanded="true" />
+            <element signature="e#943#947#0" expanded="true" />
+            <element signature="e#1065#1069#0" expanded="true" />
+            <element signature="e#1081#1085#0" expanded="true" />
+            <element signature="e#1206#1210#0" expanded="true" />
+            <element signature="e#1225#1229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/a1_quantitative_scales.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="814">
@@ -325,7 +307,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/a1_quantitative_scales.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
+        <state relative-caret-position="609">
           <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
           <folding>
             <element signature="e#929#933#0" expanded="true" />
@@ -361,8 +343,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/a5_color_interpolation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        <state relative-caret-position="259">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a6_compound_interpolation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="53" column="42" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a7_custom_interpolator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
         </state>
       </provider>
     </entry>
