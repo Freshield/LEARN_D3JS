@@ -9,7 +9,7 @@
 <body>
 
 <div class="control-group">
-    <button onabort="renderAll('bottom')">
+    <button onclick="renderAll('bottom')">
         horizontal bottom
     </button>
     <button onclick="renderAll('top')">
@@ -50,6 +50,27 @@
                 }
             })
             .call(axis)
+    }
+
+    function renderAll(orient) {
+        if (svg){
+            svg.remove()
+        }
+
+        createSvg()
+
+        renderAxis(d3.scale.linear()
+            .domain([0, 1000])
+            .range([0, axisWidth]), 1, orient)
+
+        renderAxis(d3.scale.pow()
+            .exponent(2)
+            .domain([0, 1000])
+            .range([0, axisWidth]), 2, orient)
+
+        renderAxis(d3.time.scale()
+            .domain([new Date(2012, 0, 1), new Date()])
+            .range([0, axisWidth]), 3, orient)
     }
 </script>
 
