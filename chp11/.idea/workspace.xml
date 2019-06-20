@@ -14,51 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="a1_gravity_and_charge.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a1_gravity_and_charge.html">
+      <file leaf-file-name="a6_force_directed_graph.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/a6_force_directed_graph.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1936">
-              <caret line="88" selection-start-line="88" selection-end-line="88" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a2_momentum_and_friction.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a2_momentum_and_friction.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1166">
-              <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a3_link_constraint.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a3_link_constraint.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="95" column="28" lean-forward="true" selection-start-line="95" selection-start-column="28" selection-end-line="95" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a4_arbitrary_visualization.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a4_arbitrary_visualization.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="108" column="7" selection-start-line="108" selection-start-column="7" selection-end-line="108" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#stop#0;n#radialGradient#0;n#defs#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#stop#1;n#radialGradient#0;n#defs#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="a5_multi_foci.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/a5_multi_foci.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="100" column="18" selection-start-line="100" selection-start-column="18" selection-end-line="100" selection-end-column="18" />
+            <state relative-caret-position="368">
+              <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -80,6 +40,7 @@
         <option value="$PROJECT_DIR$/a3_link_constraint.html" />
         <option value="$PROJECT_DIR$/a4_arbitrary_visualization.html" />
         <option value="$PROJECT_DIR$/a5_multi_foci.html" />
+        <option value="$PROJECT_DIR$/a6_force_directed_graph.html" />
       </list>
     </option>
   </component>
@@ -123,6 +84,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -146,12 +112,12 @@
       <option name="presentableId" value="Default" />
       <updated>1563438601646</updated>
       <workItem from="1563438602718" duration="1810000" />
-      <workItem from="1560589216003" duration="1386000" />
+      <workItem from="1560589216003" duration="1717000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3196000" />
+    <option name="totallyTimeSpent" value="3527000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="511" width="1857" height="1092" extended-state="6" />
@@ -239,6 +205,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="100" column="18" selection-start-line="100" selection-start-column="18" selection-end-line="100" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/flare.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a6_force_directed_graph.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
         </state>
       </provider>
     </entry>
